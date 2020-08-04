@@ -2,9 +2,11 @@
 ## Olá! 👋, 
 Meu nome é Elias Matheus Oliveira, sou formado em engenharia civil e resolvi me tornar desenvolvedor front-end!
 
-Atualmente, estou fazendo o bootcamp da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), além do curso de introdução a ciência da computação [CS50](https://cs50.harvard.edu/x/2020/) e estou amando!
+Para acelerar esse processo, escolhi fazer o bootcamp da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), além do curso de introdução à ciência da computação [CS50](https://cs50.harvard.edu/x/2020/) e estou amando todo o processo!
 
-Seja muito bem vindo! 
+Vou colocar tudo que aprender de novo e meus projetos por aqui.
+
+Seja muito bem vindo e fique à vontade! 
 
 ---
 
