@@ -2,9 +2,9 @@
 ## Olá! 👋, 
 Meu nome é Elias Matheus Oliveira, sou formado em engenharia civil e resolvi me tornar desenvolvedor front-end!
 
-Para acelerar esse processo, escolhi fazer o bootcamp da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), além do curso de introdução à ciência da computação [CS50](https://cs50.harvard.edu/x/2020/) e estou amando todo o processo!
+Para acelerar esse processo, escolhi fazer o bootcamp da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/) para aprender o básico de Front-end para entrar no mercado e, para aprender as melhores tecnologias do mercado eu embarquei em no foguete da [Rocketseat](https://rocketseat.com.br/), no bootcamp GoStack. 
 
-Vou colocar tudo que aprender de novo e meus projetos por aqui.
+Vou colocar tudo que aprender e meus projetos por aqui.
 
 Seja muito bem vindo e fique à vontade! 
 
