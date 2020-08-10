@@ -1,6 +1,6 @@
 # Elias Matheus
 ## Olá! 👋, 
-Meu nome é Elias Matheus Oliveira, sou formado em engenharia civil e resolvi me tornar desenvolvedor web!
+Meu nome é Elias Matheus Melo de Oliveira, sou engenheiro civil, apaixonado por tecnologia e, muito em breve, desenvolvedor web!
 
 Para acelerar esse processo, escolhi fazer o bootcamp da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/) para aprender o básico de Front-end para entrar no mercado e, para aprender as melhores tecnologias do mercado eu embarquei em no foguete da [Rocketseat](https://rocketseat.com.br/), no bootcamp GoStack 13. 
 
