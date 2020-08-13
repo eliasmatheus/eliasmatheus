@@ -1,6 +1,6 @@
 # Elias Matheus
 ## Olá! 👋, 
-Meu nome é Elias Matheus Melo de Oliveira, sou formado em engenheiria civil, porém, descobri minha verdadeira vocação na área de tecnologia e, no dia 16 de julho de 2020, decidi me tornar desenvolvedor web. 
+Meu nome é Elias Matheus Melo de Oliveira, sou formado em engenheiria civil, porém, descobri minha verdadeira vocação na área de tecnologia. Por isso, no dia 16 de julho de 2020, decidi mudar de carreira e embarcar na jornada para me tornar um desenvolvedor web. 
 
 Para me ajudar neste processo, escolhi fazer capacitação Front-End da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), onde tenho aprendido desde os fundamentos da Web como HTML, CSS e Javascript, até os desafios de fazer parte de um time de desenvolvimento ágil.
 
