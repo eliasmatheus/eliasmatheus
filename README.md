@@ -18,6 +18,8 @@ Seja muito bem vindo e fique à vontade!
 - HTML
 - CSS
 - Javascript
+- React
+- Angular
 - Git
 
 ---
