@@ -8,6 +8,8 @@ Para me ajudar neste processo, escolhi fazer capacitação Front-End da [Cocrear
 
 Além disso, para aprender as melhores tecnologias do mercado eu embarquei em no foguete da [Rocketseat](https://rocketseat.com.br/), no bootcamp GoStack 13. 
 
+Hoje, atuo como desenvolvedor web na [Agility](https://www.somosagility.com.br/), onde atuo com Angular no front-end e PHP no back-end. 
+
 Vou colocar o aprender e meus projetos por aqui.
 
 Seja muito bem vindo e fique à vontade! 
@@ -18,8 +20,13 @@ Seja muito bem vindo e fique à vontade!
 - HTML
 - CSS
 - Javascript
+- Typescript
+- PHP
+- Git
+
+## ⚡ Bibliotecas e Frameworks
 - React
 - Angular
-- Git
+- Laravel
 
 ---
