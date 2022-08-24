@@ -4,7 +4,7 @@ My name is Elias Matheus Melo de Oliveira, start my career in civil engineering 
 
 So I decided to change careers and embark on the journey to become a :rocket: web developer.
 
-To help me in this process, I chose to do Front-End training at [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), where I have learned from the fundamentals of the Web such as HTML, CSS and Javascript, to the challenges of being part of an agile development team.
+To help me in this process, I chose to do Front-End training at [Newtab Academy](https://www.newtab.academy/), where I have learned from the fundamentals of the Web such as HTML, CSS and Javascript, to the challenges of being part of an agile development team.
 
 Also, to learn the best technologies on the market I boarded the [Rocketseat](https://rocketseat.com.br/) rocket in the GoStack 13 bootcamp.
 
