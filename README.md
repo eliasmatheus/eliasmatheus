@@ -1,32 +1,29 @@
 # Elias Matheus
-## Olá! 👋, 
-Meu nome é Elias Matheus Melo de Oliveira, sou formado em engenharia civil :construction:, porém, descobri minha verdadeira vocação na área de tecnologia. 
+## Hello there! 👋, 
+My name is Elias Matheus Melo de Oliveira, start my career in civil engineering :construction:, however, I discovered my true vocation in the area of technology.
 
-Por isso, decidi mudar de carreira e embarcar na jornada para me tornar um desenvolvedor web :rocket:. 
+So I decided to change careers and embark on the journey to become a :rocket: web developer.
 
-Para me ajudar neste processo, escolhi fazer capacitação Front-End da [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), onde tenho aprendido desde os fundamentos da Web como HTML, CSS e Javascript, até os desafios de fazer parte de um time de desenvolvimento ágil.
+To help me in this process, I chose to do Front-End training at [Cocreare Academy](https://cocreare.com.br/academy-copy.html/), where I have learned from the fundamentals of the Web such as HTML, CSS and Javascript, to the challenges of being part of an agile development team.
 
-Além disso, para aprender as melhores tecnologias do mercado eu embarquei em no foguete da [Rocketseat](https://rocketseat.com.br/), no bootcamp GoStack 13. 
+Also, to learn the best technologies on the market I boarded the [Rocketseat](https://rocketseat.com.br/) rocket in the GoStack 13 bootcamp.
 
-Hoje, atuo como desenvolvedor web na [Agility](https://www.somosagility.com.br/), onde atuo com Angular no front-end e PHP no back-end. 
+Today I work as a front-end developer, and I'm specializing in Angular, but I also do some projects in Next.js.
 
-Vou colocar o aprender e meus projetos por aqui.
-
-Seja muito bem vindo e fique à vontade! 
+Welcome and make yourself comfortable! 
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Technologies
 - HTML
 - CSS
 - Javascript
 - Typescript
-- PHP
 - Git
 
-## ⚡ Bibliotecas e Frameworks
-- React
+## ⚡ Libraries and Frameworks
 - Angular
-- Laravel
+- Next.js
+- ReactJS
 
 ---
