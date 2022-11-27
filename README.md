@@ -25,5 +25,7 @@ Welcome and make yourself comfortable!
 - Angular
 - Next.js
 - ReactJS
+- Node.js
+- Express
 
 ---
