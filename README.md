@@ -20,6 +20,7 @@ Welcome and make yourself comfortable!
 - Javascript
 - Typescript
 - Git
+- Python
 
 ## ⚡ Libraries and Frameworks
 - Angular
@@ -27,5 +28,6 @@ Welcome and make yourself comfortable!
 - ReactJS
 - Node.js
 - Express
+- Flask
 
 ---
